@@ -7,6 +7,7 @@ Universidad: UIDE
 
 ### Información!
 
+
 Para extraer datos utilice la página de la tienda de electrodomésticos
 La Ganga, envio a través del programa en python el nombre de un electrodoméstico
 para que realice la búsqueda, luego de obtener los resultados
